@@ -38,3 +38,16 @@ header{
 .testo-evidenziato{
     background-color: yellow;
 }
+
+.testa-tabella{
+    color: white;
+    background-color: rgb(47, 130, 255);
+}
+
+.testo-evidenziato-tabella{
+    background-color: rgb(167, 227, 247) ;
+}
+
+td{
+    padding: 20px;
+}
