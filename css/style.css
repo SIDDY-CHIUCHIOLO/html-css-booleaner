@@ -74,3 +74,29 @@ table{
 .table-text{
     text-align: center;
 }
+
+#text-footer{
+    color: gray;
+    font-weight: 900;
+}
+
+
+.image1{
+    background: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+.image2{
+    background: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+.text-photo{
+    font-size: 30px;
+    color: white;
+    font-weight: 900;
+    padding-left: 10px;
+    padding-top: 10px;
+}
