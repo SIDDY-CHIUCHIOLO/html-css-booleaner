@@ -34,3 +34,7 @@ header{
 .info-photo{
     font-size: 10px;
 }
+
+.testo-evidenziato{
+    background-color: yellow;
+}
