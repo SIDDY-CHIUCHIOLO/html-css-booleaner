@@ -5,7 +5,7 @@
 
 header{
     background-image:url(../img/pattern.png);
-    background-color: rgb(49, 130, 252);
+    background-color: rgb(47, 130, 255);
     background-size: contain;
     height: 200px;
     position: relative;
@@ -16,4 +16,21 @@ header{
     height: 100px;
     position: absolute;
     bottom: 0;
+}
+
+.autore{
+    color: gray;
+    font-weight: 900;
+}
+
+#link{
+    color:rgb(0, 184, 245);
+}
+
+#data{
+    font-size: 10px;
+}
+
+.info-photo{
+    font-size: 10px;
 }
